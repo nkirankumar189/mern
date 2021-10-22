@@ -1,0 +1,46 @@
+//
+
+mongodb url:mongodb+srv://admin:admin@miniprojectdb.nzphu.mongodb.net/mern?retrywrites=true&w=majority
+
+
+back end urls:
+
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p1.jpg"
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p2.jpg"
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p3.jpg"
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p4.jpg"
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p5.jpg"
+"https://mernclassbucket.s3.us-east-2.amazonaws.com/p6.jpg"
+
+          part 3
+          *********
+
+      https://reduxex.s3.ap-southeast-1.amozonaws.com/shirt1.jpg    
+
+
+      mongodb url
+      *********
+      mongodb+srv://kiran:admin@testcluster.abm7j.mongodb.net/kiran?retryWrites=true&w=majority
+      database name:kiran
+      collection name:products
+      user name:kiran
+      password:admin
+      ******************************************
+
+      Ecommerce project
+      ------------------------
+
+      http://ecommerce-7pm.s3.us-east-2.amazonaws.com/p1.jpg
+
+      https://ecommerce-7pm.s3.us-east-2.amazonaws.com/p1.jpg
+
+      https://ecommerce-7pm.s3.us-east-2.amazonaws.com/p2.jpg
+
+
+      mongodb details
+      --------------
+      database:ecommerce-7pm
+      collection:products
+      user name:kiran
+      password:admin
+      database URL:mongodb+srv://kiran:<admin>@testcluster.abm7j.mongodb.net/ecommerce-7pm?retryWrites=true&w=majority
